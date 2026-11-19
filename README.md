@@ -2,7 +2,7 @@
 
 Use models served by oMLX from the Visual Studio Code Copilot Chat model picker.
 
-Repository: https://github.com/mikedoise/oMLX-Copilot-Chat
+Repository: https://github.com/roycedamien/oMLX-Copilot-Chat
 
 This extension registers `oMLX` as a VS Code Language Model Chat Provider and
 talks to the oMLX OpenAI-compatible API:
